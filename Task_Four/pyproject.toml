@@ -1,0 +1,11 @@
+[project]
+name = "study-notes-agent"
+version = "0.1.0"
+description = "A study notes summarizer and quiz generator agent."
+dependencies = [
+    "streamlit",
+    "pypdf",
+    "openai-agents",
+    "python-dotenv>=1.2.1",
+]
+requires-python = ">=3.10"
