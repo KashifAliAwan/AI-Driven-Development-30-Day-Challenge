@@ -1,0 +1,22 @@
+# Environment files
+.env
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Gemini / AI config files
+.gemini/
+gemini/
+
+# Uploads or temporary data
+uploads/
+
+# System files
+*.log
+.DS_Store
+
+# VS Code settings
+.vscode/
