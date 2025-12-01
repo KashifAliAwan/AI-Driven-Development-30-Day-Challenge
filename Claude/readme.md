@@ -190,4 +190,4 @@ If Claude replies → 🎉 **Setup is working!**
 
 ---
 
-<img width="784" height="464" alt="Screenshot 2025-11-29 194026" src="https://github.com/user-attachments/assets/411700ef-9ba0-47e4-b829-9df99c7b0734" />
+<img width="784" height="464" alt="Screenshot 2025-11-29 194026" src="./Claude.jpg" />
